@@ -24,11 +24,6 @@
 - 🏢 **Customer Relationship Management** system with **role-based access**  
 - 🔐 Secure **lead and agent management**  
 
-### 🛍️ E-Commerce Platform  
-🛠 **MERN Stack**, **Stripe API**, **Tailwind CSS**  
-- 🛒 Full-featured **online store** with **product search & filtering**  
-- 💳 Integrated **payment processing** with **Stripe**  
-
 ### 🐦 Twitter Clone  
 🛠 **MERN Stack**, **Redux**, **JWT Authentication**  
 - 📰 Social media platform with **real-time feeds & interactions**  
