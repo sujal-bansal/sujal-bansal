@@ -7,12 +7,18 @@
 
 ## 🛠 Tech Stack
 - **⚙️ Backend**: Django, FastAPI, Node.js (Express)  
-- **🎨 Frontend**: React.js, Tailwind CSS  
+- **🎨 Frontend**: React.js, Tailwind CSS, TypeScript
 - **🗄 Databases**: PostgreSQL, MongoDB, MySQL, Redis  
 - **🚢 DevOps**: Docker, Git, Kubernetes (🔄 Learning)  
 - **🔐 Others**: REST APIs, WebSockets, JWT Auth, Redux  
 
 ## 🚀 Featured Projects
+
+###💬 Real-Time Chat App
+🛠 MERN Stack, Socket.IO, JWT Auth, Cloudinary
+- 🔄 Real-time messaging application with instant communication via WebSocket
+- 🔐 Secure JWT-based authentication with user login & registration
+- 📸 Seamless media sharing using Cloudinary integration
 
 ### 📝 Code Collab Platform  
 🛠 **Django**, **WebSockets**, **Redis**, **React.js**, **Tailwind CSS**  
@@ -35,6 +41,5 @@
 - ✍️ Blog post creation & discussion features  
 
 ## 📚 Currently Learning
-- ☸ **Kubernetes** for **container orchestration**  
 - 🤖 **PyTorch** for **AI/ML applications**  
 
