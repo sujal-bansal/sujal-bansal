@@ -15,7 +15,7 @@
 ## 🚀 Featured Projects
 
 ###💬 Real-Time Chat App
-🛠 MERN Stack, Socket.IO, JWT Auth, Cloudinary
+🛠 **MERN Stack**, **Socket.IO**, **JWT Auth**, **Cloudinary**
 - 🔄 Real-time messaging application with instant communication via WebSocket
 - 🔐 Secure JWT-based authentication with user login & registration
 - 📸 Seamless media sharing using Cloudinary integration
