@@ -10,7 +10,7 @@
 - **🎨 Frontend**: React.js, Tailwind CSS, TypeScript
 - **🗄 Databases**: PostgreSQL, MongoDB, MySQL, Redis  
 - **🚢 DevOps**: Docker, Git, Kubernetes (🔄 Learning)  
-- **🔐 Others**: REST APIs, WebSockets, JWT Auth, Redux  
+- **🔐 Others**: REST APIs, WebSockets, JWT Auth, Redux, Zustand, Socket.IO
 
 ## 🚀 Featured Projects
 
