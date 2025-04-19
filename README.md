@@ -6,11 +6,13 @@
 🔥 **Vim enthusiast** (90 WPM) currently exploring **PyTorch** and ML integration.  
 
 ## 🛠 Tech Stack
+- **💻 Languages**: Python, JavaScript, TypeScript, C, SQL
 - **⚙️ Backend**: Django, FastAPI, Node.js (Express)  
-- **🎨 Frontend**: React.js, Tailwind CSS, TypeScript
-- **🗄 Databases**: PostgreSQL, MongoDB, MySQL, Redis  
-- **🚢 DevOps**: Docker, Git, Kubernetes (🔄 Learning)  
-- **🔐 Others**: REST APIs, WebSockets, JWT Auth, Redux, Zustand, Socket.IO
+- **🎨 Frontend**: React.js, Next.js, Tailwind CSS, Redux, Zustand
+- **🔌 API & Communication**: RESTful APIs, Socket.IO (WebSockets), JWT Auth
+- **🗄 Databases**: PostgreSQL, MongoDB, MySQL, Redis
+- **🚢 DevOps & Tools**: Docker, Git, Vim   
+
 
 ## 🚀 Featured Projects
 
